@@ -56,6 +56,9 @@
 /* FINE HEADER */
 
 /* MAIN */
+        main {
+            font-family: 'Roboto', sans-serif;
+        }
         /* FIGURE */
             figure {
                 margin-left: 2px;
@@ -63,8 +66,17 @@
             }
 
             figcaption{
-                font-family: 'Roboto', sans-serif;
                 font-weight: 600;
             }
         /* FINE FIGURE */
+        /* PARAGRAFO 1 */
+            .paragrafo-1{
+                margin-top: 20px;
+            }
+        /* FINE PARAGRAFO 1 */
+        /* TESTO EVIDENZIATO */
+            .testo-evidenziato{
+                background-color: yellow;
+            }
+        /* TESTO EVIDENZIATO */
 /* FINE MAIN */
