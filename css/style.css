@@ -56,36 +56,36 @@
 /* FINE HEADER */
 
 /* MAIN */
-        main{
+    main{
             font-family: 'Roboto', sans-serif;
+    }
+    /* FIGURE */
+        figure{
+            margin-left: 2px;
+            margin-top: 15px;
         }
-        /* FIGURE */
-            figure{
-                margin-left: 2px;
-                margin-top: 15px;
-            }
 
-            figcaption{
-                font-weight: 600;
-            }
-        /* FINE FIGURE */
-        /* PARAGRAFO */
-            .paragrafo{
-                margin-top: 20px;
-            }
-        /* FINE PARAGRAFO*/
-        /* TESTO EVIDENZIATO */
-            .testo-evidenziato{
-                background-color: yellow;
-            }
-        /* FINE TESTO EVIDENZIATO */
-        /* LISTA PUNTATA */
-            #lista-puntata{
-                margin-top: 20px;
-                margin-left: 15px;
-            }
-        /* FINE LISTA PUNTATA */
-        /* TABELLA */
+        figcaption{
+            font-weight: 600;
+        }
+    /* FINE FIGURE */
+    /* PARAGRAFO */
+        .paragrafo{
+            margin-top: 20px;
+        }
+    /* FINE PARAGRAFO*/
+    /* TESTO EVIDENZIATO */
+        .testo-evidenziato{
+            background-color: yellow;
+        }
+    /* FINE TESTO EVIDENZIATO */
+    /* LISTA PUNTATA */
+        #lista-puntata{
+            margin-top: 20px;
+            margin-left: 15px;
+        }
+    /* FINE LISTA PUNTATA */
+    /* TABELLA */
         table{
             width: 100%;
             margin-top: 20px;
@@ -113,5 +113,5 @@
         .table-row{
             background-color: rgba(0, 187, 255, 0.4);
         }
-        /* FINE TABELLA */
+    /* FINE TABELLA */
 /* FINE MAIN */
