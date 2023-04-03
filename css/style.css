@@ -30,7 +30,7 @@
         }
     /* FINE HEADER BANNER */
     /* TITOLO DI PAGINA */
-        h1 {
+        h1{
             font-size: 60px;
         }
     /* FINE TITOLO DI PAGINA */ 
@@ -49,18 +49,18 @@
             color: grey;
         }
 
-        #link-header {
+        #link-header{
             color: #0000EE;
         }
     /* FINE DESCRIZIONE HEADER */
 /* FINE HEADER */
 
 /* MAIN */
-        main {
+        main{
             font-family: 'Roboto', sans-serif;
         }
         /* FIGURE */
-            figure {
+            figure{
                 margin-left: 2px;
                 margin-top: 15px;
             }
@@ -85,4 +85,33 @@
                 margin-left: 15px;
             }
         /* FINE LISTA PUNTATA */
+        /* TABELLA */
+        table{
+            width: 100%;
+            margin-top: 20px;
+
+            text-align: left;
+            border-collapse: collapse;
+        }
+
+        th{
+            color: white;
+            padding: 5px 0;
+        }
+
+        td{
+            padding: 5px 0;
+            width: calc(100%/3);
+
+            font-weight: 600;
+        }
+
+        #thead-row {
+            background-color: rgba(0, 106, 255, 0.767);
+        }
+
+        .table-row{
+            background-color: rgba(0, 187, 255, 0.4);
+        }
+        /* FINE TABELLA */
 /* FINE MAIN */
