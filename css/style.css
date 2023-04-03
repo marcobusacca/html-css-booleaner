@@ -125,4 +125,38 @@
             color: grey;
         }
     /* FINE FOOTER */
+    /* CONTENITORE FOTO 1 */
+    #contenitore-foto-1{
+        width: 300px;
+        height: 200px;
+
+        margin-top: 10px;
+
+        font-size: 30px;
+        font-weight: 600;
+        color: white;
+
+        background-image: url(../img/monitor.jpg);
+    }
+    /* FINE CONTENITORE FOTO 1 */
+    /* CONTENITORE FOTO 2 */
+    #contenitore-foto-2{
+        width: 300px;
+        height: 200px;
+
+        margin-top: 10px;
+        margin-bottom: 20px;
+
+        font-size: 30px;
+        font-weight: 600;
+        color: white;
+
+        background-image: url(../img/graph.jpg);
+    }
+    /* FINE CONTENITORE FOTO 2 */
+    /* DESCRIZIONE FOTO FOOTER */
+    .descrizione-foto-footer{
+        margin-left: 15px;
+    }
+    /* FINE DESCRIZIONE FOTO FOOTER */
 /* FINE FOOTER */
