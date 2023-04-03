@@ -54,3 +54,17 @@
         }
     /* FINE DESCRIZIONE HEADER */
 /* FINE HEADER */
+
+/* MAIN */
+        /* FIGURE */
+            figure {
+                margin-left: 2px;
+                margin-top: 15px;
+            }
+
+            figcaption{
+                font-family: 'Roboto', sans-serif;
+                font-weight: 600;
+            }
+        /* FINE FIGURE */
+/* FINE MAIN */
