@@ -57,7 +57,7 @@
 
 /* MAIN */
     main{
-            font-family: 'Roboto', sans-serif;
+        font-family: 'Roboto', sans-serif;
     }
     /* FIGURE */
         figure{
@@ -115,3 +115,14 @@
         }
     /* FINE TABELLA */
 /* FINE MAIN */
+
+/* FOOTER */
+    footer{
+        margin-top: 20px;
+    }
+    /* TITOLO FOOTER */
+        #titolo-footer{
+            color: grey;
+        }
+    /* FINE FOOTER */
+/* FINE FOOTER */
